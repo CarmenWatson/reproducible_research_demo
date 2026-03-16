@@ -1,2 +1,2 @@
 - This is my first GitHub file
-- I am adding a chage wby writing this line
+- I am adding a change wby writing this line
